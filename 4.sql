@@ -1,0 +1,1 @@
+select SUM(salary) as total_salary from employees;

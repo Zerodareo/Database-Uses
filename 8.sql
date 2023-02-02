@@ -1,0 +1,1 @@
+select max(salary) - min(salary) as diff_salaries from employees;

@@ -1,0 +1,1 @@
+select ROUND(AVG(salary)/12, 2) as salaries from employees; 
